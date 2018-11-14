@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        
+        <title>javascript: calculate two numbers</title>
+        <meta charset="windows-1252">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script>
+            
+            function calc()
+            {
+                var n1 = parseFloat(document.getElementById('n1').value);
+                var n2 = parseFloat(document.getElementById('n2').value);
+               
+                document.getElementById('result').value = n2-n1;
+                
+            }
+            
+        </script>
+		<style>
+			   	
+		</style>
+        
+    </head>
+    <body>
+        <div style="margin: auto; width: 50%;">
+			<div>
+    		<label style="width:37%; display:inline-block; margin:20px 0;" for="n1">Incoming Ground Water Temperature, F&#176;</label>
+            <input style="display:inline-block; margin: 20px 0px;" type="text" id="n1" size="5"/>
+			</div>
+			
+    		<label style="width: 37%; display:inline-block; margin-bottom:20px 0;" for="n2">Outgoing Heated Water Temperature, F&#176;</label>
+            <input style="display:inline-block; margin:20px 0;" type="text" id="n2" size="5"/>
+    		  
+            <button style="text-decoration: none; padding: 15px 35px 15px 35px; display: block; margin:0 0 20px 15px" onclick="calc();">Calculate</button>
+    		
+    		<label style="width: 37%; display:inline-block; margin-bottom:20px 0;" for="result">Temperature Rise, F&#176;</label>
+            <input style="display:inline-block; margin-bottom:20px 0;" type="text" id="result" size="5"/>
+		
+        </div>
+    </body>
+</html>
