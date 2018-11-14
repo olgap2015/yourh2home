@@ -1,0 +1,73 @@
+div.responsive-compare-table {
+                          display:flex;
+                          flex-wrap: wrap;
+                          font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+                          font-size: 14px;
+                          }
+
+div.responsive-column {
+                   display:inline-block;
+                   margin-bottom:5px;
+ }
+
+div.responsive-image-div {
+                       border: solid 1px #E8E8E8;
+  }
+
+div.responsive-image-div-first-column {
+                                   border-top-left-radius: 8px;
+  }
+
+.responsive-image-div-last-column {
+                                  border-top-right-radius: 8px;
+ }
+
+.responsive-image-first-column {
+                                border-top-left-radius: 8px;
+  }
+
+.responsive-image-last-column {
+                              border-top-right-radius: 8px;
+ }
+
+ .responsive-text-div {
+                               border: solid 1px #E8E8E8;
+                               padding: 5px 10px;
+                               text-align: center;
+}
+
+.responsive-text-div-grey {
+                            background-color: #e8e8e8;
+   }
+
+.responsive-button-div {
+                       border: solid 1px #E8E8E8;
+                       text-align:center;
+ }
+
+.responsive-button-div-first-column {
+                                    border-bottom-left-radius: 8px;
+ }
+
+.responsive-button-div-last-column {
+                                   border-bottom-right-radius: 8px;
+ }
+
+a.responsive-button {
+                   background-color: #ff9900;
+                   border: none;
+                   border-radius:8px;
+                   color: black;
+                   padding: 5px 10px;
+                   text-align: center;
+                   text-decoration: none;
+                   display: inline-block;
+                   font-size: 16px;
+                   margin: 10px auto;
+                   cursor: pointer;
+                   width: 80%;
+ }
+
+ a.responsive-button:hover {
+                    color: white;
+ }
