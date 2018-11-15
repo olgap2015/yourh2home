@@ -1,3 +1,5 @@
+/* Compare table styles */
+
 div.responsive-compare-table {
                           display:flex;
                           flex-wrap: wrap;
@@ -16,18 +18,12 @@ div.responsive-image-div {
 
 div.responsive-image-div-first-column {
                                    border-top-left-radius: 8px;
+                                   overflow: hidden;
   }
 
 .responsive-image-div-last-column {
                                   border-top-right-radius: 8px;
- }
-
-.responsive-image-first-column {
-                                border-top-left-radius: 8px;
-  }
-
-.responsive-image-last-column {
-                              border-top-right-radius: 8px;
+                                  overflow: hidden;
  }
 
  .responsive-text-div {
