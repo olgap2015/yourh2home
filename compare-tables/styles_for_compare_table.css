@@ -12,6 +12,10 @@ div.responsive-column {
                    margin-bottom:5px;
  }
 
+ div.responsive-title {
+                    font-weight:bold;
+ }
+
 div.responsive-image-div {
                        border: solid 1px #E8E8E8;
   }
