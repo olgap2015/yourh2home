@@ -1,0 +1,70 @@
+/* Dropshadow paragraph style */
+.dropshadow-par {
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+	padding: 10px;
+}
+
+/* Product pros and cons box */
+p#pros-header {
+    text-align: center;
+    padding: 5px;
+    font-family: "Amaranth", Sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    background-color: #61ce70;
+}
+
+p#cons-header {
+    text-align: center;
+    padding: 5px;
+    font-family: "Amaranth", Sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    background-color: #ff0000;
+
+}
+
+ul#pros-list {
+    margin-left: 0px;
+}
+
+ul#pros-list li {
+    list-style: none;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #54595f;
+    padding-left: 1.7em;
+    text-indent: -1.7em;
+}
+
+ul#pros-list li:before {
+    content: '\2714';
+    padding-right: 8px;
+    color: #61ce70;
+    font-size: 1.5em;
+
+}
+
+ul#cons-list {
+    margin-left: 0px;
+}
+
+ul#cons-list li {
+    list-style: none;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #54595f;
+    padding-left: 1.7em;
+    text-indent: -1.7em;
+}
+
+ul#cons-list li:before {
+    content: '\2716';
+    padding-right: 8px;
+    color: #ff0000;
+    font-size: 1.5em;
+}
