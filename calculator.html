@@ -25,19 +25,20 @@
         
     </head>
     <body>
-        <div style="margin: auto; width: 50%;">
+        <div style="margin: auto; width: 50%; text-align: center;">
+
 			<div>
-    		<label style="width:37%; display:inline-block; margin:20px 0;" for="n1">Incoming Ground Water Temperature, F&#176;</label>
-            <input style="display:inline-block; margin: 20px 0px;" type="text" id="n1" size="5"/>
+    		<label style="display: inline-block; margin: 20px 0; text-align: center; width: 100%;" for="n1">Incoming Ground Water Temperature, F&#176;</label>
+            <input style="display:inline-block; margin: 20px 0px; border: 2px solid #5eb3fb; border-radius: 5px; width: 50%;" type="text" id="n1" size="5"/>
 			</div>
 			
-    		<label style="width: 37%; display:inline-block; margin-bottom:20px 0;" for="n2">Outgoing Heated Water Temperature, F&#176;</label>
-            <input style="display:inline-block; margin:20px 0;" type="text" id="n2" size="5"/>
-    		  
-            <button style="text-decoration: none; padding: 15px 35px 15px 35px; display: block; margin:0 0 20px 15px" onclick="calc();">Calculate</button>
-    		
-    		<label style="width: 37%; display:inline-block; margin-bottom:20px 0;" for="result">Temperature Rise, F&#176;</label>
-            <input style="display:inline-block; margin-bottom:20px 0;" type="text" id="result" size="5"/>
+    		<label style="display: inline-block; margin: 20px 0; text-align: center; width: 100%;" for="n2">Outgoing Heated Water Temperature, F&#176;</label>
+            <input style="display:inline-block; margin: 20px 0px; border: 2px solid #5eb3fb; border-radius: 5px; width: 50%;" type="text" id="n2" size="5"/>
+
+            <button style="width: 150px; margin: 20px auto; display: block;" onclick="calc();">Calculate</button>
+
+    		<label style="display: inline-block; margin: 20px 0; text-align: center; width: 100%; color: red;" for="result">Temperature Rise, F&#176;</label>
+            <input style="display:inline-block; margin: 20px 0px; border: 2px solid #5eb3fb; border-radius: 5px; color: red; width: 50%;" type="text" id="result" size="5"/>
 		
         </div>
     </body>

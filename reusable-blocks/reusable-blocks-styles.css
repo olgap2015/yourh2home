@@ -3,6 +3,7 @@
 .dropshadow-par {
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
 	padding: 10px;
+	margin-bottom: 20px;
 }
 
 /* Product pros and cons box styles*/
@@ -27,7 +28,6 @@ p.cons-header {
     font-weight: 600;
     color: white;
     background-color: #ff0000;
-
 }
 
 ul.pros-list {
