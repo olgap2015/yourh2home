@@ -1,11 +1,13 @@
 /* Dropshadow paragraph style */
+
 .dropshadow-par {
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
 	padding: 10px;
 }
 
-/* Product pros and cons box */
-p#pros-header {
+/* Product pros and cons box styles*/
+
+p.pros-header {
     text-align: center;
     padding: 5px;
     font-family: "Amaranth", Sans-serif;
@@ -16,7 +18,7 @@ p#pros-header {
     background-color: #61ce70;
 }
 
-p#cons-header {
+p.cons-header {
     text-align: center;
     padding: 5px;
     font-family: "Amaranth", Sans-serif;
@@ -28,11 +30,11 @@ p#cons-header {
 
 }
 
-ul#pros-list {
+ul.pros-list {
     margin-left: 0px;
 }
 
-ul#pros-list li {
+ul.pros-list li {
     list-style: none;
     font-weight: 400;
     line-height: 1.2;
@@ -41,7 +43,7 @@ ul#pros-list li {
     text-indent: -1.7em;
 }
 
-ul#pros-list li:before {
+ul.pros-list li:before {
     content: '\2714';
     padding-right: 8px;
     color: #61ce70;
@@ -49,11 +51,11 @@ ul#pros-list li:before {
 
 }
 
-ul#cons-list {
+ul.cons-list {
     margin-left: 0px;
 }
 
-ul#cons-list li {
+ul.cons-list li {
     list-style: none;
     font-weight: 400;
     line-height: 1.2;
@@ -62,9 +64,21 @@ ul#cons-list li {
     text-indent: -1.7em;
 }
 
-ul#cons-list li:before {
+ul.cons-list li:before {
     content: '\2716';
     padding-right: 8px;
     color: #ff0000;
     font-size: 1.5em;
+}
+
+/* CTA button on hover effect styles */
+
+.ctaonhover a:hover {
+    background-color: #5bc739;
+}
+
+/* Separator line styles */
+
+hr.separator {
+    border-bottom-color: black;
 }
