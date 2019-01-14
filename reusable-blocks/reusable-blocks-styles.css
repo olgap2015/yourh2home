@@ -71,10 +71,31 @@ ul.cons-list li:before {
     font-size: 1.5em;
 }
 
-/* CTA button on hover effect styles */
+/* CTA button styles */
 
-.ctaonhover a:hover {
-    background-color: #5bc739;
+div.cta-button {
+    text-align: center;
+}
+
+div.cta-button a {
+    color: #ffffff;
+    background-color: #ff6900;
+    border: none;
+    border-radius: 28px;
+    box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+    overflow-wrap: break-word;
+}
+
+.cta-button a:visited {
+	color: white;
 }
 
 /* Separator line styles */
