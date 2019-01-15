@@ -48,7 +48,6 @@ ul.pros-list li:before {
     padding-right: 8px;
     color: #61ce70;
     font-size: 1.5em;
-
 }
 
 ul.cons-list {
@@ -75,6 +74,7 @@ ul.cons-list li:before {
 
 div.cta-button {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 div.cta-button a {
@@ -94,6 +94,11 @@ div.cta-button a {
     overflow-wrap: break-word;
 }
 
+.ctaonhover a:hover {
+    background-color: #5bc739;
+    color: white;
+}
+
 .cta-button a:visited {
 	color: white;
 }
@@ -103,3 +108,37 @@ div.cta-button a {
 hr.separator {
     border-bottom-color: black;
 }
+
+/* List with special characters as bullets styles */
+
+ul.list-with-spec-char li {
+    list-style: none;
+}
+
+ul.green-dollar li:before {
+    content: '\FF04';
+    padding-right: 8px;
+    color: #38ea00;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+ul.thumbs-up li:before {
+    content: '\01F44D';
+    padding-right: 8px;
+    color: green;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+ul.thumbs-down li:before {
+    content: '\01F44E';
+    padding-right: 8px;
+    color: red;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+
+
+
