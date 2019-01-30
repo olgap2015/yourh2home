@@ -13,6 +13,7 @@
     margin: 0;
     margin-left: 0;
     line-height: 1em;
+    width: 100%;
 }
 
 .table-of-content p {
@@ -25,12 +26,9 @@
     color: #3baeda;
 }
 
-.table-of-content ul {
-    list-style-type: none;
-}
-
-.table-of-content li {
+.table-of-content ul > li {
     margin-bottom: 10px;
+    list-style-type: none;
 }
 
 .table-of-content  a {

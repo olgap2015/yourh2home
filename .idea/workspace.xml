@@ -2,67 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf284d7c-9224-4599-8694-4b8489a1482b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/compare-tables/ready-tables/best-rinnai-water-heaters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="299777190">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.32" value="3" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.38" value="2" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.41" value="2" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="9" />
-          <entry key="html" value="22" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="12" />
-          <entry key="HTML" value="38" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="1427" />
-          <entry key="HTML" value="1418" />
-          <entry key="PLAIN_TEXT" value="148" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="166" />
-          <entry key="html" value="583" />
-          <entry key="txt" value="148" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -117,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/compare-tables/ready-tables/best-rinnai-water-heaters.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -136,21 +84,28 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table-of-contents/best-gas-tankless-heater-table-of-content.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Desktop/project-submission" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Treehouse/Code/contactmgr-hibernate-ideal" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Treehouse/Code/giflib-hibernate" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Treehouse/Code/overboard" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Treehouse/Code/treehouse-giflib-hibernate-68d1926" value="PREVIEW" />
-      </map>
-    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/compare-tables/ready-tables/electric-tankless-comparison-table.html" root0="FORCE_HIGHLIGHTING" />
@@ -167,8 +122,6 @@
         <option value="$PROJECT_DIR$/compare-tables/electric-tankless-comparison-table.html" />
         <option value="$PROJECT_DIR$/compare-tables/gas-tankless-comparison-table.html" />
         <option value="$PROJECT_DIR$/compare_table_model_css_only.css" />
-        <option value="$PROJECT_DIR$/table-of-contents/best-gas-tankless-heater-table-of-content.html" />
-        <option value="$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css" />
         <option value="$PROJECT_DIR$/compare-tables/ready-tables/takagi-reviews.html" />
         <option value="$PROJECT_DIR$/calculator.html" />
         <option value="$PROJECT_DIR$/compare-tables/ready-tables/test-table.html" />
@@ -179,6 +132,8 @@
         <option value="$PROJECT_DIR$/reusable-blocks/reusable-blocks-styles.css" />
         <option value="$PROJECT_DIR$/compare-tables/ready-tables/best-rheem-water-heater.html" />
         <option value="$PROJECT_DIR$/compare-tables/ready-tables/best-rinnai-water-heaters.html" />
+        <option value="$PROJECT_DIR$/table-of-contents/best-gas-tankless-heater-table-of-content.html" />
+        <option value="$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css" />
       </list>
     </option>
   </component>
@@ -195,33 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
-              <item name="compare-tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
-              <item name="compare-tables" type="462c0819:PsiDirectoryNode" />
-              <item name="ready-tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
-              <item name="reusable-blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -233,6 +161,27 @@
               <item name="yourh2home" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="yourh2home_files" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="compare-tables" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
+              <item name="reusable-blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yourh2home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yourh2home_files" type="462c0819:PsiDirectoryNode" />
+              <item name="table-of-contents" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,12 +226,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -342,7 +292,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1895811" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19226637" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3286119" />
@@ -355,6 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -392,9 +343,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files are edited to have neater css and html" />
     <MESSAGE value="Gas tankless comparison table is added" />
@@ -414,13 +362,6 @@
     <entry file="file://$PROJECT_DIR$/compare_table_model_css_only.css" />
     <entry file="file://$PROJECT_DIR$/compare_table_model_html_only.html" />
     <entry file="file://$PROJECT_DIR$/compare_table_model_html_and_css_together.html" />
-    <entry file="file://$PROJECT_DIR$/table-of-contents/best-gas-tankless-heater-table-of-content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/compare-tables/ready-tables/test-table.html" />
     <entry file="file://$PROJECT_DIR$/compare-tables/ready-tables/takagi-reviews.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -447,13 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -518,7 +452,7 @@
     <entry file="file://$PROJECT_DIR$/compare-tables/ready-tables/best-rinnai-water-heaters.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -529,6 +463,20 @@
             <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#5;n#div#3;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table-of-contents/best-gas-tankless-heater-table-of-content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table-of-contents/styles-for-table-of-content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
