@@ -139,6 +139,37 @@ ul.thumbs-down li:before {
     font-weight: 600;
 }
 
+/* Two product compare table (vs table) styles */
+
+.vs-table th {
+    text-align: center;
+    font-size: 1.3em;
+    padding: 10px 0;
+}
+
+.vs-table td:first-child {
+    padding-left: 10px;
+}
+
+.vs-table td:nth-child(n+2) {
+    text-align: center;
+}
+
+.vs-table td span {
+       color: #5ab9ea;
+       font-size: 1.7em;
+       font-weight: bold;
+}
+
+.vs-table tr:nth-child(odd) {
+    background: #F5F5F5;
+}
+
+.vs-table tr:first-child {
+    background: #5AB9EA;
+    color: ghostwhite;
+}
+
 
 
 
